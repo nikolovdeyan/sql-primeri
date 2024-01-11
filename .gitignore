@@ -1,4 +1,4 @@
 .headers
 ve_*/*
-.ipynb_checkpoints/*
+window_functions/.ipynb_checkpoints/*
 *.db
